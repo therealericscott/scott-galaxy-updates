@@ -18,8 +18,8 @@
                   {
                       "name":  "scott_galaxy_version.txt",
                       "destination":  "scott_galaxy_version.txt",
-                      "size":  27,
-                      "sha256":  "824D5CCFA2403262D896D12B1BAA57A9C777AF79ADE6790116B1D88D1472E99A"
+                      "size":  25,
+                      "sha256":  "CA91A0E6E06267FFD8848971CF86C1A81B562035AB4D52FAF6261A42EDA9D9A3"
                   }
               ]
 }
