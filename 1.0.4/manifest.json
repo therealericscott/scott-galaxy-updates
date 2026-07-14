@@ -1,0 +1,26 @@
+{
+    "product":  "Scott Galaxy",
+    "releaseType":  "client",
+    "clientVersion":  "1.0.4",
+    "launchExecutable":  "SWGEmu.exe",
+    "files":  [
+                  {
+                      "name":  "scott_galaxy.tre",
+                      "destination":  "scott_galaxy.tre",
+                      "size":  16692,
+                      "sha256":  "475CB7B2913622D46FCBC84EDEE742B6147FA12406F57E24B0C09D83CAEA9BD8"
+                  },
+                  {
+                      "name":  "swgemu_login.cfg",
+                      "destination":  "swgemu_login.cfg",
+                      "size":  70,
+                      "sha256":  "FC1997327C3F248E8B0ADF9E356C91599C28A4815950E5C78C8FF87E5931058A"
+                  },
+                  {
+                      "name":  "scott_galaxy_version.txt",
+                      "destination":  "scott_galaxy_version.txt",
+                      "size":  25,
+                      "sha256":  "F13C1E56EE74AEBBAB1D11031812AB4E730E19FA0FAD5969836A3062214786A8"
+                  }
+              ]
+}

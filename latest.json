@@ -1,5 +1,6 @@
 {
     "product":  "Scott Galaxy",
-    "latestVersion":  "1.0.3",
-    "manifest":  "1.0.3/manifest.json"
+    "releaseType":  "client",
+    "latestVersion":  "1.0.4",
+    "manifest":  "1.0.4/manifest.json"
 }
