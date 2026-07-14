@@ -1,0 +1,164 @@
+{
+    "product":  "Scott Galaxy",
+    "releaseType":  "client",
+    "clientVersion":  "1.0.6",
+    "launchExecutable":  "SWGEmu.exe",
+    "files":  [
+                  {
+                      "name":  "dbghelp.dll",
+                      "destination":  "dbghelp.dll",
+                      "size":  676864,
+                      "sha256":  "DF50CCCDB494E775450CDDF44A15DDF5AE2A24C1143167C93F8B577FC56D9E22"
+                  },
+                  {
+                      "name":  "dpvs.dll",
+                      "destination":  "dpvs.dll",
+                      "size":  142336,
+                      "sha256":  "3602AF4999237BEC1358CE210CFCDAB87FDA16F2CDEBECDC65743DF88771A9F9"
+                  },
+                  {
+                      "name":  "em05_u.dll",
+                      "destination":  "em05_u.dll",
+                      "size":  1642577,
+                      "sha256":  "FB6B5A8BD70D1CDED056AB047201FD7DD48CD51FF705BC1A8ED4EE3CB9E9EF59"
+                  },
+                  {
+                      "name":  "em06_u.dll",
+                      "destination":  "em06_u.dll",
+                      "size":  1613909,
+                      "sha256":  "E007DAFE62B87AF61F5E347215F357285C438F7F236D7D53B6CFE4F476290AB2"
+                  },
+                  {
+                      "name":  "em07_u.dll",
+                      "destination":  "em07_u.dll",
+                      "size":  1630294,
+                      "sha256":  "FB5012E79D074FEFCAAE3DA28B16CFF41E73025DDE8A61E80E6C340A3DF66FC5"
+                  },
+                  {
+                      "name":  "miles/mssdsp.flt",
+                      "destination":  "miles/mssdsp.flt",
+                      "size":  115200,
+                      "sha256":  "9E526CA5A85503774C5CB272984207884614BD718E66D894C2BFA43817A65B4F"
+                  },
+                  {
+                      "name":  "miles/Msseax.m3d",
+                      "destination":  "miles/Msseax.m3d",
+                      "size":  115712,
+                      "sha256":  "37FAA064EA1E5AE4909AB97F96A43F1D8FC5E40380C0D30EE78E61560DAED264"
+                  },
+                  {
+                      "name":  "miles/mssmp3.asi",
+                      "destination":  "miles/mssmp3.asi",
+                      "size":  137216,
+                      "sha256":  "93B4322C8266ED4C05E5ABBFCDBA81537E557072AD6C752D899178952BCF5C29"
+                  },
+                  {
+                      "name":  "miles/msssoft.m3d",
+                      "destination":  "miles/msssoft.m3d",
+                      "size":  77824,
+                      "sha256":  "62233BEBCCB6AEB97370A8499C577E2982F46924E3A1BC55C53FA1F8A2404252"
+                  },
+                  {
+                      "name":  "Mss32.dll",
+                      "destination":  "Mss32.dll",
+                      "size":  370688,
+                      "sha256":  "7855B8FBAE917CB8449F2D4361AB61B5ECEC4DF0A11130D797CB0AA99B4260EA"
+                  },
+                  {
+                      "name":  "qt-mt305.dll",
+                      "destination":  "qt-mt305.dll",
+                      "size":  3563520,
+                      "sha256":  "5D7A355874839BEDE61B8EE724F0B1F549665A53A568939467A203E8F3A42962"
+                  },
+                  {
+                      "name":  "s205_r.dll",
+                      "destination":  "s205_r.dll",
+                      "size":  1642576,
+                      "sha256":  "02AEF1923964AFF40A180B9776E553FE3E922B65909C7D256A4E6B46B1FA96CD"
+                  },
+                  {
+                      "name":  "s206_r.dll",
+                      "destination":  "s206_r.dll",
+                      "size":  1618004,
+                      "sha256":  "A922225D7543EB9D535A381F68F9D3094551BD7F90C6FE9033654E3F5BB6FF03"
+                  },
+                  {
+                      "name":  "s207_r.dll",
+                      "destination":  "s207_r.dll",
+                      "size":  1634389,
+                      "sha256":  "D3A38E096B050F0219826A54908963C04F4ACDEDE03C5A42708C2E0C5F60A53D"
+                  },
+                  {
+                      "name":  "scott_galaxy.tre",
+                      "destination":  "scott_galaxy.tre",
+                      "size":  16692,
+                      "sha256":  "475CB7B2913622D46FCBC84EDEE742B6147FA12406F57E24B0C09D83CAEA9BD8"
+                  },
+                  {
+                      "name":  "scott_galaxy_version.txt",
+                      "destination":  "scott_galaxy_version.txt",
+                      "size":  25,
+                      "sha256":  "C89FE3CF94C90E5F974E4A9B2282DE6ACF276A590E9DFCFFAEFD9181444CB0F5"
+                  },
+                  {
+                      "name":  "string/en/live_motd.stf",
+                      "destination":  "string/en/live_motd.stf",
+                      "size":  1439,
+                      "sha256":  "567846B067322D28D0D90C04CA4B7663F57B8CD1FC2691C76BDAF439549D0704"
+                  },
+                  {
+                      "name":  "string/en/test_motd.stf",
+                      "destination":  "string/en/test_motd.stf",
+                      "size":  2113,
+                      "sha256":  "BC3983FADC55B7E0975B94E6BA3910E2BA6505241FF1F1343773B6859BBABDBF"
+                  },
+                  {
+                      "name":  "string/en/ui_auc.stf",
+                      "destination":  "string/en/ui_auc.stf",
+                      "size":  35224,
+                      "sha256":  "AB1537E86005A820DB3AB85FF166DF727F9F3399C150CCF11C39F213AFC68428"
+                  },
+                  {
+                      "name":  "swgemu.cfg",
+                      "destination":  "swgemu.cfg",
+                      "size":  133,
+                      "sha256":  "541AA6FFF48E2F405E9DAEEDE71F72B0B7CBEE87D89A2E2F1C16085E6B6E7167"
+                  },
+                  {
+                      "name":  "SWGEmu.exe",
+                      "destination":  "SWGEmu.exe",
+                      "size":  22061142,
+                      "sha256":  "12286E93953932C5182D94975271F8D2D40B9DBB00A827C5A60E784C90DAA1A0"
+                  },
+                  {
+                      "name":  "swgemu_live.cfg",
+                      "destination":  "swgemu_live.cfg",
+                      "size":  2118,
+                      "sha256":  "C98E17A1820B614D3CFFC89A4A3F0BBB527DD2D5AA68F8F4E3EBAB92CC241EDC"
+                  },
+                  {
+                      "name":  "swgemu_preload.cfg",
+                      "destination":  "swgemu_preload.cfg",
+                      "size":  2018,
+                      "sha256":  "BCD05D88E41C018583E153B18CC85EF9001FE10E503907A6FD525FF7060F490B"
+                  },
+                  {
+                      "name":  "texture/loading/space/images/space_load_pvp.dds",
+                      "destination":  "texture/loading/space/images/space_load_pvp.dds",
+                      "size":  131200,
+                      "sha256":  "B03BFA2414EDAC639035C3704B0BA7A91A05A6EC34AC08706162E8FE93A470AD"
+                  },
+                  {
+                      "name":  "texture/ui_logo_lucas.dds",
+                      "destination":  "texture/ui_logo_lucas.dds",
+                      "size":  174904,
+                      "sha256":  "AEC98D4299FC0BF04F3C65772C8646ECACBA8711665A6E4E34305DCC26BCD668"
+                  },
+                  {
+                      "name":  "ui/ui_auction.inc",
+                      "destination":  "ui/ui_auction.inc",
+                      "size":  309253,
+                      "sha256":  "90E230CF6B0B146250C85D3BDD5692F34A0E610E5469AEF5BF266E5D38F06023"
+                  }
+              ]
+}
