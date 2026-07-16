@@ -1,0 +1,19 @@
+﻿{
+    "product":  "Scott Galaxy",
+    "releaseType":  "launcher",
+    "launcherVersion":  "1.0.1",
+    "files":  [
+                  {
+                      "architecture":  "win-arm64",
+                      "name":  "ScottGalaxySetup-ARM64.exe",
+                      "size":  32288533,
+                      "sha256":  "77783DABE6B42759BCB32223DA2AF3972B86CA5F578EB90A0800C9466B2DB53B"
+                  },
+                  {
+                      "architecture":  "win-x64",
+                      "name":  "ScottGalaxySetup-x64.exe",
+                      "size":  35308929,
+                      "sha256":  "F83356AD95FBD28B082F54AB1812EA34DC5035338DE8B180C5F83F6C0788FDBB"
+                  }
+              ]
+}

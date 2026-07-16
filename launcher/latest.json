@@ -1,6 +1,6 @@
 ﻿{
     "product":  "Scott Galaxy",
     "releaseType":  "launcher",
-    "latestVersion":  "1.0.0",
-    "manifest":  "launcher/1.0.0/manifest.json"
+    "latestVersion":  "1.0.1",
+    "manifest":  "launcher/1.0.1/manifest.json"
 }
