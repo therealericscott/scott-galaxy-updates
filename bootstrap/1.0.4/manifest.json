@@ -1,0 +1,23 @@
+{
+    "schemaVersion":  1,
+    "product":  "Scott Galaxy",
+    "releaseType":  "bootstrap",
+    "bootstrapVersion":  "1.0.4",
+    "releaseTag":  "bootstrap-1.0.4",
+    "files":  [
+                  {
+                      "architecture":  "win-arm64",
+                      "name":  "ScottGalaxyBootstrap-ARM64.exe",
+                      "size":  32293664,
+                      "sha256":  "ECBD89F862B994F04E8F3040DC3870490EBE27BF515D5B7038EA5FB1DB52A86C",
+                      "url":  "https://github.com/therealericscott/scott-galaxy-updates/releases/download/bootstrap-1.0.4/ScottGalaxyBootstrap-ARM64.exe"
+                  },
+                  {
+                      "architecture":  "win-x64",
+                      "name":  "ScottGalaxyBootstrap-x64.exe",
+                      "size":  35313310,
+                      "sha256":  "3248D06377B09C4BB67529980A1954BDF5101644078124003AF887C41521A783",
+                      "url":  "https://github.com/therealericscott/scott-galaxy-updates/releases/download/bootstrap-1.0.4/ScottGalaxyBootstrap-x64.exe"
+                  }
+              ]
+}
