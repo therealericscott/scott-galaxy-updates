@@ -1,0 +1,34 @@
+﻿{
+    "schemaVersion":  1,
+    "product":  "Scott Galaxy",
+    "releaseType":  "retail-foundation",
+    "version":  "1.0.0",
+    "releaseTag":  "retail-foundation-1.0.0",
+    "downloadRoot":  "https://github.com/therealericscott/scott-galaxy-updates/releases/download/retail-foundation-1.0.0",
+    "installationDirectory":  "Client",
+    "finalValidation":  {
+                            "assetType":  "retail-import",
+                            "fileCount":  51,
+                            "totalBytes":  2927376214
+                        },
+    "packages":  [
+                     {
+                         "packageNumber":  1,
+                         "name":  "ScottGalaxy-Retail-Foundation-01.zip",
+                         "url":  "https://github.com/therealericscott/scott-galaxy-updates/releases/download/retail-foundation-1.0.0/ScottGalaxy-Retail-Foundation-01.zip",
+                         "archiveBytes":  1464056841,
+                         "sha256":  "0E7E18D99E70C657168E9A8B68546414D9670FD054D5E4BDB4C0BC0BE2A54CC3",
+                         "extractedFileCount":  24,
+                         "extractedBytes":  1463830749
+                     },
+                     {
+                         "packageNumber":  2,
+                         "name":  "ScottGalaxy-Retail-Foundation-02.zip",
+                         "url":  "https://github.com/therealericscott/scott-galaxy-updates/releases/download/retail-foundation-1.0.0/ScottGalaxy-Retail-Foundation-02.zip",
+                         "archiveBytes":  1463771878,
+                         "sha256":  "8C42D4EFF509B70EBC2AEEB22E9F7D423CB6A6AA3CD0B822D5C558952FE74694",
+                         "extractedFileCount":  27,
+                         "extractedBytes":  1463545465
+                     }
+                 ]
+}
