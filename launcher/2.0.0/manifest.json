@@ -6,16 +6,16 @@
                   {
                       "architecture":  "win-arm64",
                       "name":  "ScottGalaxyBootstrap-ARM64.exe",
-                      "url":  "https://therealericscott.github.io/scott-galaxy-updates/launcher/launcher/2.0.0/ScottGalaxyBootstrap-ARM64.exe",
-                      "size":  37640040,
-                      "sha256":  "6D07D4058936C5E524A9E71DE1830E4233F9EBFB311D8FA82F0BD1E7B7F00CB5"
+                      "url":  "https://therealericscott.github.io/scott-galaxy-updates/launcher/2.0.0/ScottGalaxyBootstrap-ARM64.exe",
+                      "size":  37640039,
+                      "sha256":  "DA16AFB2F419E2E4DDA982BBC512C215A1BE58A9EC9B8BF85DC7AE47FD3295E1"
                   },
                   {
                       "architecture":  "win-x64",
                       "name":  "ScottGalaxyBootstrap-x64.exe",
-                      "url":  "https://therealericscott.github.io/scott-galaxy-updates/launcher/launcher/2.0.0/ScottGalaxyBootstrap-x64.exe",
+                      "url":  "https://therealericscott.github.io/scott-galaxy-updates/launcher/2.0.0/ScottGalaxyBootstrap-x64.exe",
                       "size":  40662948,
-                      "sha256":  "CA695F2AFF88F338146DE640BB9222C7DD7A47AD70996520A165C4BCAC778BB0"
+                      "sha256":  "86BDD1C0C97FB93A04543E7A2C8976C149D90E5FA89044144630AEB787A49A5C"
                   }
               ]
 }
