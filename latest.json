@@ -1,6 +1,6 @@
-{
-    "product":  "Scott Galaxy",
-    "releaseType":  "client",
-    "latestVersion":  "1.0.12",
-    "manifest":  "1.0.12/manifest.json"
+﻿{
+    "product": "Scott Galaxy",
+    "releaseType": "client",
+    "latestVersion": "1.0.9",
+    "manifest": "1.0.9/manifest.json"
 }
