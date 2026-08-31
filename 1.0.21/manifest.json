@@ -1,0 +1,563 @@
+{
+    "product":  "Scott Galaxy",
+    "releaseType":  "client",
+    "clientVersion":  "1.0.21",
+    "launchExecutable":  "SWGEmu.exe",
+    "clientExtensionRequired":  true,
+    "downloadBaseUrl":  "https://github.com/therealericscott/scott-galaxy-updates/releases/download/client-1.0.21",
+    "files":  [
+                  {
+                      "name":  "bottom.tre",
+                      "destination":  "bottom.tre",
+                      "downloadName":  "bottom.tre",
+                      "size":  16205884,
+                      "sha256":  "AEADA86B4AC7965AEF3B87C7E675B5ECBCA9A6AA8E1504D25D1BC4EC08A445D9"
+                  },
+                  {
+                      "name":  "data_animation_00.tre",
+                      "destination":  "data_animation_00.tre",
+                      "downloadName":  "data_animation_00.tre",
+                      "size":  58966791,
+                      "sha256":  "12FD074834F425460A60D8F908AC3C1A7AB4640E4FDF3610E9772CE1171E9A7C"
+                  },
+                  {
+                      "name":  "data_music_00.tre",
+                      "destination":  "data_music_00.tre",
+                      "downloadName":  "data_music_00.tre",
+                      "size":  77322894,
+                      "sha256":  "F6BA67DAF87DD3A99E9F7A1577AB43FB981FCF04A4BFBFA82D50C9831B036B54"
+                  },
+                  {
+                      "name":  "data_other_00.tre",
+                      "destination":  "data_other_00.tre",
+                      "downloadName":  "data_other_00.tre",
+                      "size":  46546173,
+                      "sha256":  "7C7A02670EA47AB7EAEC0C7B265642CB7DAD3D50550DA426DB24816CACEFFD57"
+                  },
+                  {
+                      "name":  "data_sample_00.tre",
+                      "destination":  "data_sample_00.tre",
+                      "downloadName":  "data_sample_00.tre",
+                      "size":  104636589,
+                      "sha256":  "8895E1022B25E336940095E419C19AF0ED27EDDA7177F0AC63FBDB1FE446D0ED"
+                  },
+                  {
+                      "name":  "data_sample_01.tre",
+                      "destination":  "data_sample_01.tre",
+                      "downloadName":  "data_sample_01.tre",
+                      "size":  104848649,
+                      "sha256":  "0AF1505081B73DDD301A13EE19ABE106DB6F75F6D02C31BA6A252B1ED287F6B7"
+                  },
+                  {
+                      "name":  "data_sample_02.tre",
+                      "destination":  "data_sample_02.tre",
+                      "downloadName":  "data_sample_02.tre",
+                      "size":  104806646,
+                      "sha256":  "48A759294A5BBB4898F26857F520F219CFDF7C0A63AFFB0C948255B89EF183AD"
+                  },
+                  {
+                      "name":  "data_sample_03.tre",
+                      "destination":  "data_sample_03.tre",
+                      "downloadName":  "data_sample_03.tre",
+                      "size":  104479178,
+                      "sha256":  "EC8C406B11854CCB36EFC18D5FA95BBBAA5CCD9ECFCDABBD707A11CB7160F76D"
+                  },
+                  {
+                      "name":  "data_sample_04.tre",
+                      "destination":  "data_sample_04.tre",
+                      "downloadName":  "data_sample_04.tre",
+                      "size":  33887496,
+                      "sha256":  "4F11D67FFF56D41DCCBE15C2EEA71CB3E4C171BAF62D41725398FBAAD5262C17"
+                  },
+                  {
+                      "name":  "data_skeletal_mesh_00.tre",
+                      "destination":  "data_skeletal_mesh_00.tre",
+                      "downloadName":  "data_skeletal_mesh_00.tre",
+                      "size":  104259690,
+                      "sha256":  "FD80201B6864CD1CC0CBC5CF462663CEEE4CCFD18A39244812B69381D29CC469"
+                  },
+                  {
+                      "name":  "data_skeletal_mesh_01.tre",
+                      "destination":  "data_skeletal_mesh_01.tre",
+                      "downloadName":  "data_skeletal_mesh_01.tre",
+                      "size":  42575909,
+                      "sha256":  "41C2FBCDA58E0C0A9E2C448CE8E8EC820F0E3EC81B2E911CCBE8E48E5905C202"
+                  },
+                  {
+                      "name":  "data_sku1_00.tre",
+                      "destination":  "data_sku1_00.tre",
+                      "downloadName":  "data_sku1_00.tre",
+                      "size":  104853089,
+                      "sha256":  "BD02FD838FF0E96D4AB594B919DC6E092E107A8557660A071D498BD189E35FB9"
+                  },
+                  {
+                      "name":  "data_sku1_01.tre",
+                      "destination":  "data_sku1_01.tre",
+                      "downloadName":  "data_sku1_01.tre",
+                      "size":  104861757,
+                      "sha256":  "8DB6B96C71998B7843DB998AEF9CA429D514449E0E3497539B75C0E56DF0803C"
+                  },
+                  {
+                      "name":  "data_sku1_02.tre",
+                      "destination":  "data_sku1_02.tre",
+                      "downloadName":  "data_sku1_02.tre",
+                      "size":  105217918,
+                      "sha256":  "D9E94DFE6BE826652DA63B0F7368A4989676D7EEB80F5F493A0A6683819D7AD6"
+                  },
+                  {
+                      "name":  "data_sku1_03.tre",
+                      "destination":  "data_sku1_03.tre",
+                      "downloadName":  "data_sku1_03.tre",
+                      "size":  104461486,
+                      "sha256":  "D3D5FC5B4C26EC3B610D842A3D675A06B84FA862AA2F176EAA5029B42B62CB69"
+                  },
+                  {
+                      "name":  "data_sku1_04.tre",
+                      "destination":  "data_sku1_04.tre",
+                      "downloadName":  "data_sku1_04.tre",
+                      "size":  104915626,
+                      "sha256":  "946E9841B80B5852024811D712210F2B1B9D71B386C508A7C15FEB74C6416304"
+                  },
+                  {
+                      "name":  "data_sku1_05.tre",
+                      "destination":  "data_sku1_05.tre",
+                      "downloadName":  "data_sku1_05.tre",
+                      "size":  7576262,
+                      "sha256":  "69E244007A58ADB665E34BDCBD927AB067DF581AF754FD81327C81972D4EED04"
+                  },
+                  {
+                      "name":  "data_sku1_06.tre",
+                      "destination":  "data_sku1_06.tre",
+                      "downloadName":  "data_sku1_06.tre",
+                      "size":  22566812,
+                      "sha256":  "3FF21958A28642137255E6F738416B8237F7775E04B30560C780A775C917C8DC"
+                  },
+                  {
+                      "name":  "data_sku1_07.tre",
+                      "destination":  "data_sku1_07.tre",
+                      "downloadName":  "data_sku1_07.tre",
+                      "size":  2333549,
+                      "sha256":  "191B5B2B71D061011561031C4F5B135BBC84F2FD8DEBEC885E018ECE121F56DB"
+                  },
+                  {
+                      "name":  "data_static_mesh_00.tre",
+                      "destination":  "data_static_mesh_00.tre",
+                      "downloadName":  "data_static_mesh_00.tre",
+                      "size":  104681322,
+                      "sha256":  "AD7FC4B0878D09D4C5616378BD815D782B2085C845A8FC046EE68203139A0ED5"
+                  },
+                  {
+                      "name":  "data_static_mesh_01.tre",
+                      "destination":  "data_static_mesh_01.tre",
+                      "downloadName":  "data_static_mesh_01.tre",
+                      "size":  94719985,
+                      "sha256":  "6C656316B37B41F7FE8957B6E83812CFA6EEACA035EEC12839CEED2DEA5D5C47"
+                  },
+                  {
+                      "name":  "data_texture_00.tre",
+                      "destination":  "data_texture_00.tre",
+                      "downloadName":  "data_texture_00.tre",
+                      "size":  104816351,
+                      "sha256":  "71752A151C392124D9ED76606BE30A9777EC523752D8FC16672062EFD5519744"
+                  },
+                  {
+                      "name":  "data_texture_01.tre",
+                      "destination":  "data_texture_01.tre",
+                      "downloadName":  "data_texture_01.tre",
+                      "size":  104831553,
+                      "sha256":  "288E1B54DCAB1C27BE1F6374736C22790E73A2E3185DCCF306C1654B8533C097"
+                  },
+                  {
+                      "name":  "data_texture_02.tre",
+                      "destination":  "data_texture_02.tre",
+                      "downloadName":  "data_texture_02.tre",
+                      "size":  104923301,
+                      "sha256":  "468CA6A9B0E251C93B26186951B2FB0AB29F1E379D6C9C40860DE509C52567AF"
+                  },
+                  {
+                      "name":  "data_texture_03.tre",
+                      "destination":  "data_texture_03.tre",
+                      "downloadName":  "data_texture_03.tre",
+                      "size":  104659874,
+                      "sha256":  "2768FE296C902791E8C42BB3327C66D08B15E62B945B8B9E1BC34D1400C6C246"
+                  },
+                  {
+                      "name":  "data_texture_04.tre",
+                      "destination":  "data_texture_04.tre",
+                      "downloadName":  "data_texture_04.tre",
+                      "size":  104887073,
+                      "sha256":  "8384CC90D6386BF52535ADF0470B10FC8B95A90B96EC2CF357707781420DADBD"
+                  },
+                  {
+                      "name":  "data_texture_05.tre",
+                      "destination":  "data_texture_05.tre",
+                      "downloadName":  "data_texture_05.tre",
+                      "size":  104820008,
+                      "sha256":  "7B04DCD4D9522AA98BA5693344A723FED5ED4286670D52F592B83179581ADF4B"
+                  },
+                  {
+                      "name":  "data_texture_06.tre",
+                      "destination":  "data_texture_06.tre",
+                      "downloadName":  "data_texture_06.tre",
+                      "size":  104773001,
+                      "sha256":  "BCE6DB3C01BE754F5E4F6600DDF97C854EB63F4B04AAC2F3C0C10F6D67215628"
+                  },
+                  {
+                      "name":  "data_texture_07.tre",
+                      "destination":  "data_texture_07.tre",
+                      "downloadName":  "data_texture_07.tre",
+                      "size":  66226334,
+                      "sha256":  "DD715210B5F2DDBC5EE7825BC804D6F4E1B4685B0FC92B8432B643902718E700"
+                  },
+                  {
+                      "name":  "dbghelp.dll",
+                      "destination":  "dbghelp.dll",
+                      "downloadName":  "dbghelp.dll",
+                      "size":  676864,
+                      "sha256":  "DF50CCCDB494E775450CDDF44A15DDF5AE2A24C1143167C93F8B577FC56D9E22"
+                  },
+                  {
+                      "name":  "default_patch.tre",
+                      "destination":  "default_patch.tre",
+                      "downloadName":  "default_patch.tre",
+                      "size":  60331,
+                      "sha256":  "90D4A7DA4110FF33D3B0103786E9AC1173DA533379558FDEAA9BD398675EF8F9"
+                  },
+                  {
+                      "name":  "dpvs.dll",
+                      "destination":  "dpvs.dll",
+                      "downloadName":  "dpvs.dll",
+                      "size":  142336,
+                      "sha256":  "3602AF4999237BEC1358CE210CFCDAB87FDA16F2CDEBECDC65743DF88771A9F9"
+                  },
+                  {
+                      "name":  "em05_u.dll",
+                      "destination":  "em05_u.dll",
+                      "downloadName":  "em05_u.dll",
+                      "size":  1642577,
+                      "sha256":  "FB6B5A8BD70D1CDED056AB047201FD7DD48CD51FF705BC1A8ED4EE3CB9E9EF59"
+                  },
+                  {
+                      "name":  "em06_u.dll",
+                      "destination":  "em06_u.dll",
+                      "downloadName":  "em06_u.dll",
+                      "size":  1613909,
+                      "sha256":  "E007DAFE62B87AF61F5E347215F357285C438F7F236D7D53B6CFE4F476290AB2"
+                  },
+                  {
+                      "name":  "em07_u.dll",
+                      "destination":  "em07_u.dll",
+                      "downloadName":  "em07_u.dll",
+                      "size":  1630294,
+                      "sha256":  "FB5012E79D074FEFCAAE3DA28B16CFF41E73025DDE8A61E80E6C340A3DF66FC5"
+                  },
+                  {
+                      "name":  "miles/mssdsp.flt",
+                      "destination":  "miles/mssdsp.flt",
+                      "downloadName":  "mssdsp.flt",
+                      "size":  115200,
+                      "sha256":  "9E526CA5A85503774C5CB272984207884614BD718E66D894C2BFA43817A65B4F"
+                  },
+                  {
+                      "name":  "miles/Msseax.m3d",
+                      "destination":  "miles/Msseax.m3d",
+                      "downloadName":  "Msseax.m3d",
+                      "size":  115712,
+                      "sha256":  "37FAA064EA1E5AE4909AB97F96A43F1D8FC5E40380C0D30EE78E61560DAED264"
+                  },
+                  {
+                      "name":  "miles/mssmp3.asi",
+                      "destination":  "miles/mssmp3.asi",
+                      "downloadName":  "mssmp3.asi",
+                      "size":  137216,
+                      "sha256":  "93B4322C8266ED4C05E5ABBFCDBA81537E557072AD6C752D899178952BCF5C29"
+                  },
+                  {
+                      "name":  "miles/msssoft.m3d",
+                      "destination":  "miles/msssoft.m3d",
+                      "downloadName":  "msssoft.m3d",
+                      "size":  77824,
+                      "sha256":  "62233BEBCCB6AEB97370A8499C577E2982F46924E3A1BC55C53FA1F8A2404252"
+                  },
+                  {
+                      "name":  "Mss32.dll",
+                      "destination":  "Mss32.dll",
+                      "downloadName":  "Mss32.dll",
+                      "size":  370688,
+                      "sha256":  "7855B8FBAE917CB8449F2D4361AB61B5ECEC4DF0A11130D797CB0AA99B4260EA"
+                  },
+                  {
+                      "name":  "patch_00.tre",
+                      "destination":  "patch_00.tre",
+                      "downloadName":  "patch_00.tre",
+                      "size":  18779819,
+                      "sha256":  "A045FCF9DAC95B5CFF57989C3C658890F766F7F03F9CF7554679C79FE8BCDBF2"
+                  },
+                  {
+                      "name":  "patch_01.tre",
+                      "destination":  "patch_01.tre",
+                      "downloadName":  "patch_01.tre",
+                      "size":  17757229,
+                      "sha256":  "ADB0AD5D9822ABE21AE41B91421CF04B7B1D0DA3F7C6F2A405B445BEC8FF66DA"
+                  },
+                  {
+                      "name":  "patch_02.tre",
+                      "destination":  "patch_02.tre",
+                      "downloadName":  "patch_02.tre",
+                      "size":  3396766,
+                      "sha256":  "2B24A6682E06041634081E7FEFB4DA6A67E49B6EBA0144600E5845B0DA0AA68C"
+                  },
+                  {
+                      "name":  "patch_03.tre",
+                      "destination":  "patch_03.tre",
+                      "downloadName":  "patch_03.tre",
+                      "size":  20870097,
+                      "sha256":  "94523C1A68638C494ECEEC5643BBE6526941195B55A944C8642DC978FF35BA18"
+                  },
+                  {
+                      "name":  "patch_04.tre",
+                      "destination":  "patch_04.tre",
+                      "downloadName":  "patch_04.tre",
+                      "size":  27137114,
+                      "sha256":  "B4F382E9CAEA42B739BB326D2422C9EB190603DA8DC85DB43100F76344A2D066"
+                  },
+                  {
+                      "name":  "patch_05.tre",
+                      "destination":  "patch_05.tre",
+                      "downloadName":  "patch_05.tre",
+                      "size":  25827774,
+                      "sha256":  "D8CFEE8C36679737E035AA5FAA98B8C334B00F6E033AC78687A20513CE6FB370"
+                  },
+                  {
+                      "name":  "patch_06.tre",
+                      "destination":  "patch_06.tre",
+                      "downloadName":  "patch_06.tre",
+                      "size":  40724726,
+                      "sha256":  "E2A41CC2C9A7004EDB64F13F5B9B419C6058C07984555EB6E8542DD4C02130CB"
+                  },
+                  {
+                      "name":  "patch_07.tre",
+                      "destination":  "patch_07.tre",
+                      "downloadName":  "patch_07.tre",
+                      "size":  40567157,
+                      "sha256":  "2C419CA8A084A4379B23FF20DF88F7B128BF193EADA2FAA86F9C9EA0420A1AD8"
+                  },
+                  {
+                      "name":  "patch_08.tre",
+                      "destination":  "patch_08.tre",
+                      "downloadName":  "patch_08.tre",
+                      "size":  36984057,
+                      "sha256":  "1A748195D27879DAABF70A7DB8CD9989CFDFFBA4196BC9329C72822A9DEC8DC9"
+                  },
+                  {
+                      "name":  "patch_09.tre",
+                      "destination":  "patch_09.tre",
+                      "downloadName":  "patch_09.tre",
+                      "size":  57214055,
+                      "sha256":  "7E1FCBB9DA1B46DE2EDCBA277BEF2AD6BCB47B68D68795E746C7EC691926EC81"
+                  },
+                  {
+                      "name":  "patch_10.tre",
+                      "destination":  "patch_10.tre",
+                      "downloadName":  "patch_10.tre",
+                      "size":  33429694,
+                      "sha256":  "7061404407829D6C28B62BE2C57DA11B8D0226E7002594DBD34FA2D66DC8D5C4"
+                  },
+                  {
+                      "name":  "patch_11_00.tre",
+                      "destination":  "patch_11_00.tre",
+                      "downloadName":  "patch_11_00.tre",
+                      "size":  103221850,
+                      "sha256":  "8D1D08A4FA8407967AF49B493F631ABFE97FCD57E1C5E2170BCCDC2979FEE047"
+                  },
+                  {
+                      "name":  "patch_11_01.tre",
+                      "destination":  "patch_11_01.tre",
+                      "downloadName":  "patch_11_01.tre",
+                      "size":  28868084,
+                      "sha256":  "17D2AA68D1D3E86FDBE7C0134F190E8F9D129ED8C98CD2FA16162C0F4F5CC4E7"
+                  },
+                  {
+                      "name":  "patch_11_02.tre",
+                      "destination":  "patch_11_02.tre",
+                      "downloadName":  "patch_11_02.tre",
+                      "size":  28713778,
+                      "sha256":  "49E263E029C26A162F15CEF5A4749DC158576EA88D5B93B9ED599DB4A5BD32AF"
+                  },
+                  {
+                      "name":  "patch_11_03.tre",
+                      "destination":  "patch_11_03.tre",
+                      "downloadName":  "patch_11_03.tre",
+                      "size":  7517816,
+                      "sha256":  "F988F3FAEA213D5005491F92944DB93D2541AEC86BCF44D53B2143E6C9097A39"
+                  },
+                  {
+                      "name":  "patch_12_00.tre",
+                      "destination":  "patch_12_00.tre",
+                      "downloadName":  "patch_12_00.tre",
+                      "size":  32863489,
+                      "sha256":  "EB09B16B8A8C338EDD5D462A49B34E39F165168177EADEAD575B6CF6D9F39556"
+                  },
+                  {
+                      "name":  "patch_13_00.tre",
+                      "destination":  "patch_13_00.tre",
+                      "downloadName":  "patch_13_00.tre",
+                      "size":  6032263,
+                      "sha256":  "340BA8F9315040A992BF26E977966B56A3210D72DD37C1BAAF34364C12998376"
+                  },
+                  {
+                      "name":  "patch_14_00.tre",
+                      "destination":  "patch_14_00.tre",
+                      "downloadName":  "patch_14_00.tre",
+                      "size":  36469339,
+                      "sha256":  "5AB2950DCA71148AC34F6F6E8784676B820A64204B709247AA7F71ECC494373B"
+                  },
+                  {
+                      "name":  "patch_sku1_12_00.tre",
+                      "destination":  "patch_sku1_12_00.tre",
+                      "downloadName":  "patch_sku1_12_00.tre",
+                      "size":  6257317,
+                      "sha256":  "202008608C9735C047668BDAEAB6A28760782F7F3C1FD1D1F978657302295AFD"
+                  },
+                  {
+                      "name":  "patch_sku1_13_00.tre",
+                      "destination":  "patch_sku1_13_00.tre",
+                      "downloadName":  "patch_sku1_13_00.tre",
+                      "size":  21315,
+                      "sha256":  "94802A98DA8850D633420FA1A807505A6B6D22E655D7FEB954F07B4C58D4FB20"
+                  },
+                  {
+                      "name":  "patch_sku1_14_00.tre",
+                      "destination":  "patch_sku1_14_00.tre",
+                      "downloadName":  "patch_sku1_14_00.tre",
+                      "size":  944,
+                      "sha256":  "77B2E74998DD0C772B65359792386B775243A71999B0568CB68E8E1E01FF2E2B"
+                  },
+                  {
+                      "name":  "qt-mt305.dll",
+                      "destination":  "qt-mt305.dll",
+                      "downloadName":  "qt-mt305.dll",
+                      "size":  3563520,
+                      "sha256":  "5D7A355874839BEDE61B8EE724F0B1F549665A53A568939467A203E8F3A42962"
+                  },
+                  {
+                      "name":  "s205_r.dll",
+                      "destination":  "s205_r.dll",
+                      "downloadName":  "s205_r.dll",
+                      "size":  1642576,
+                      "sha256":  "02AEF1923964AFF40A180B9776E553FE3E922B65909C7D256A4E6B46B1FA96CD"
+                  },
+                  {
+                      "name":  "s206_r.dll",
+                      "destination":  "s206_r.dll",
+                      "downloadName":  "s206_r.dll",
+                      "size":  1618004,
+                      "sha256":  "A922225D7543EB9D535A381F68F9D3094551BD7F90C6FE9033654E3F5BB6FF03"
+                  },
+                  {
+                      "name":  "s207_r.dll",
+                      "destination":  "s207_r.dll",
+                      "downloadName":  "s207_r.dll",
+                      "size":  1634389,
+                      "sha256":  "D3A38E096B050F0219826A54908963C04F4ACDEDE03C5A42708C2E0C5F60A53D"
+                  },
+                  {
+                      "name":  "scott_galaxy.tre",
+                      "destination":  "scott_galaxy.tre",
+                      "downloadName":  "scott_galaxy.tre",
+                      "size":  22849,
+                      "sha256":  "20D364892D472C10F74F83A3D06008FD97BBBD5F559FBDD462F69BBE613F0534"
+                  },
+                  {
+                      "name":  "scott_galaxy_version.txt",
+                      "destination":  "scott_galaxy_version.txt",
+                      "downloadName":  "scott_galaxy_version.txt",
+                      "size":  26,
+                      "sha256":  "647BF206876D29A79E6441CE2F88D3882DEDF0AA073AD240552A39297D64E923"
+                  },
+                  {
+                      "name":  "ScottGalaxyClient.dll",
+                      "destination":  "ScottGalaxyClient.dll",
+                      "downloadName":  "ScottGalaxyClient.dll",
+                      "size":  126976,
+                      "sha256":  "3F69E03F7C2DD9C846A194A6FA4B0813D0C26938C096D267B16C3D76AB388848"
+                  },
+                  {
+                      "name":  "ScottGalaxyInjector.exe",
+                      "destination":  "ScottGalaxyInjector.exe",
+                      "downloadName":  "ScottGalaxyInjector.exe",
+                      "size":  247808,
+                      "sha256":  "FC19A0F258A29BBFC1A079E08C7D6DDFF50F5F825405D9A34F7A5B792467240A"
+                  },
+                  {
+                      "name":  "string/en/live_motd.stf",
+                      "destination":  "string/en/live_motd.stf",
+                      "downloadName":  "live_motd.stf",
+                      "size":  1439,
+                      "sha256":  "567846B067322D28D0D90C04CA4B7663F57B8CD1FC2691C76BDAF439549D0704"
+                  },
+                  {
+                      "name":  "string/en/test_motd.stf",
+                      "destination":  "string/en/test_motd.stf",
+                      "downloadName":  "test_motd.stf",
+                      "size":  2113,
+                      "sha256":  "BC3983FADC55B7E0975B94E6BA3910E2BA6505241FF1F1343773B6859BBABDBF"
+                  },
+                  {
+                      "name":  "string/en/ui_auc.stf",
+                      "destination":  "string/en/ui_auc.stf",
+                      "downloadName":  "ui_auc.stf",
+                      "size":  35224,
+                      "sha256":  "AB1537E86005A820DB3AB85FF166DF727F9F3399C150CCF11C39F213AFC68428"
+                  },
+                  {
+                      "name":  "swgemu.cfg",
+                      "destination":  "swgemu.cfg",
+                      "downloadName":  "swgemu.cfg",
+                      "size":  133,
+                      "sha256":  "541AA6FFF48E2F405E9DAEEDE71F72B0B7CBEE87D89A2E2F1C16085E6B6E7167"
+                  },
+                  {
+                      "name":  "SWGEmu.exe",
+                      "destination":  "SWGEmu.exe",
+                      "downloadName":  "SWGEmu.exe",
+                      "size":  22061142,
+                      "sha256":  "12286E93953932C5182D94975271F8D2D40B9DBB00A827C5A60E784C90DAA1A0"
+                  },
+                  {
+                      "name":  "swgemu_live.cfg",
+                      "destination":  "swgemu_live.cfg",
+                      "downloadName":  "swgemu_live.cfg",
+                      "size":  2163,
+                      "sha256":  "55E96C3919FCB043842540C67DB2FF381729040FF53E8AD3A34BD8CE6557CBD8"
+                  },
+                  {
+                      "name":  "swgemu_preload.cfg",
+                      "destination":  "swgemu_preload.cfg",
+                      "downloadName":  "swgemu_preload.cfg",
+                      "size":  2018,
+                      "sha256":  "BCD05D88E41C018583E153B18CC85EF9001FE10E503907A6FD525FF7060F490B"
+                  },
+                  {
+                      "name":  "texture/loading/space/images/space_load_pvp.dds",
+                      "destination":  "texture/loading/space/images/space_load_pvp.dds",
+                      "downloadName":  "space_load_pvp.dds",
+                      "size":  131200,
+                      "sha256":  "B03BFA2414EDAC639035C3704B0BA7A91A05A6EC34AC08706162E8FE93A470AD"
+                  },
+                  {
+                      "name":  "texture/ui_logo_lucas.dds",
+                      "destination":  "texture/ui_logo_lucas.dds",
+                      "downloadName":  "ui_logo_lucas.dds",
+                      "size":  174904,
+                      "sha256":  "AEC98D4299FC0BF04F3C65772C8646ECACBA8711665A6E4E34305DCC26BCD668"
+                  },
+                  {
+                      "name":  "ui/ui_auction.inc",
+                      "destination":  "ui/ui_auction.inc",
+                      "downloadName":  "ui_auction.inc",
+                      "size":  309253,
+                      "sha256":  "90E230CF6B0B146250C85D3BDD5692F34A0E610E5469AEF5BF266E5D38F06023"
+                  }
+              ]
+}
