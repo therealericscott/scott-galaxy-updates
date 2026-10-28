@@ -1,0 +1,21 @@
+﻿{
+    "product":  "Scott Galaxy",
+    "releaseType":  "launcher",
+    "launcherVersion":  "2.0.16",
+    "files":  [
+                  {
+                      "architecture":  "win-arm64",
+                      "name":  "ScottGalaxyBootstrap-ARM64.exe",
+                      "url":  "https://therealericscott.github.io/scott-galaxy-updates/launcher/2.0.16/ScottGalaxyBootstrap-ARM64.exe",
+                      "size":  36031270,
+                      "sha256":  "E1885A737F1463CD1A84CC7F2728E70D12264E6E413FFD356E66322553979668"
+                  },
+                  {
+                      "architecture":  "win-x64",
+                      "name":  "ScottGalaxyBootstrap-x64.exe",
+                      "url":  "https://therealericscott.github.io/scott-galaxy-updates/launcher/2.0.16/ScottGalaxyBootstrap-x64.exe",
+                      "size":  39098387,
+                      "sha256":  "28CFE33CBBD7E67D6E43B5526516DEEAB8C88EFBD0FC12188B22AFD3E834CED0"
+                  }
+              ]
+}
